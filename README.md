@@ -21,3 +21,5 @@ Assign it to the variable remaining_blocks.](Day001.md)
 9. [Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. The moment of the first timestamp happened before the moment of the second one. Calculate how many seconds passed between them.](Day009.md)
 
 10. [N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket?The program reads the numbers N and K. It should print the two answers for the questions above.](Day010.md)
+
+11. [Write a program to calculate the distance between two points.To find the distance between two points (x1,y1) and (x2,y2), all that you need to do is use the coordinates of these ordered pairs and apply some common sense. Begin with the most simplest formula and then incrementally arrive at the correct formula as you solve the test cases.](Day011.md)
