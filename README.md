@@ -29,3 +29,5 @@ Assign it to the variable remaining_blocks.](Day001.md)
 13. [Given an integer, print "odd" if it's odd and print "even" otherwise.](Day013.md)
 
 14. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](Day014.md)
+
+15. [Given three integers, print the least of them.](Day015.md)
