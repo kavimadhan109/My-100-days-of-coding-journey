@@ -31,3 +31,5 @@ Assign it to the variable remaining_blocks.](Day001.md)
 14. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](Day014.md)
 
 15. [Given three integers, print the least of them.](Day015.md)
+
+16. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](Day016.md)
