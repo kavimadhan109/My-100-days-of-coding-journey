@@ -15,3 +15,5 @@ Assign it to the variable remaining_blocks.](Day001.md)
 6. [Write a program that greets the user by printing the word "Hello", a comma, the name of the user and an exclamation mark after it. See the examples below.](Day006.md)
 
 7. [Write a program that reads an integer number and prints its previous and next numbers. See the example below.](Day007.md)
+
+8. [Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?The program should print two numbers: the number of hours (between 0 and 23) and the number of minutes (between 0 and 1339).For example, if N = 3900, then 3900 seconds have passed since midnight. Therefore, the time now is 1:05am. So the program should print 1 65 - 1 full hour is passed since midnight, 65 full minutes passed since midnight.](Day008.md)
