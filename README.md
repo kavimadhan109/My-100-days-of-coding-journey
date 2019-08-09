@@ -37,3 +37,5 @@ Assign it to the variable remaining_blocks.](Day001.md)
 17. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". If the number is a multipleof 5, it prints "Mugs".If the number is a multiple of both 3 and 5, it prints "JugsMugs".Otherwise, it prints the number.](Day017.md)
 
 18. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". Otherwise, it prints the number.](Day018.md)
+
+19. [Read two inputs. The first input is a digit. The second input is a number. Is the digit present in the number? If yes, return True.If no, return False.](Day019.md)
