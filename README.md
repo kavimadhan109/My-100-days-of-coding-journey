@@ -10,5 +10,5 @@ Assign it to the variable remaining_blocks.](Day001.md)
 
 4. [Write a program that takes three numbers and prints their sum. Every number is given on a separate line.](Day004.md)
 
-5. [Write a program that reads the length of the base and the height of a right-angled triangle and prints the area. Every number is given on a separate line.](Day006.md)
+5. [Write a program that reads the length of the base and the height of a right-angled triangle and prints the area. Every number is given on a separate line.](Day005.md)
 
