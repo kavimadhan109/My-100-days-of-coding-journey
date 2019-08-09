@@ -6,4 +6,4 @@ Cut and paste and assign it to the variable level_10_code.
 
 How many blocks did you have left? 
 Assign it to the variable remaining_blocks.
-](Day1.md)
+](Day 1.md)
