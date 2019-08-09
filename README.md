@@ -25,3 +25,6 @@ Assign it to the variable remaining_blocks.](Day001.md)
 11. [Write a program to calculate the distance between two points.To find the distance between two points (x1,y1) and (x2,y2), all that you need to do is use the coordinates of these ordered pairs and apply some common sense. Begin with the most simplest formula and then incrementally arrive at the correct formula as you solve the test cases.](Day011.md)
 
 12. [Given a three-digit number. Find the sum of its digits.](Day012.md)
+
+13. [Given an integer, print "odd" if it's odd and print "even" otherwise.](Day013.md)
+
