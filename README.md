@@ -50,3 +50,5 @@ Assign it to the variable remaining_blocks.](Day001.md)
 n! = 1 × 2 × … × n. For the given integer n calculate the value :1! + 2! + 3! + ... + n!. Try to discover the solution that uses only one for-loop. And don't use math module in this exercise.](Day023.md)
 
 24. [For the given integer N calculate the following sum: 1³ + 2³ + ... + N³](Day024.md)
+
+25. [N numbers are given in the input. Read them and print their sum. The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.](Day025.md)
