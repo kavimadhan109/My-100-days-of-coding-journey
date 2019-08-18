@@ -71,3 +71,4 @@ If the boolean 'rev' is True (or 1), then reverse the order of printing.  "PugsJ
 
 33. [Given a string in which the letter h occurs at least twice. Remove from that string the first and the last occurrence of the letter h, as well as all the characters between them.](Day033.md)
 
+34. [Given a list of numbers, find and print all its elements with even indices (i.e. A[0], A[2], A[4], ...).](Day034.md)
