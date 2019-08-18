@@ -66,3 +66,7 @@ If the boolean 'rev' is True (or 1), then reverse the order of printing.  "PugsJ
 30. [The Missing Spy Plane](Day030.md)
 
 31. [You are given a string.In the first line, print the third character of this string.In the second line, print the second to last character of this string.In the third line, print the first five characters of this string.In the fourth line, print all but the last two characters of this string.In the fifth line, print all the characters of this string with even indices (remember indexing starts at 0, so the characters are displayed starting with the first).In the sixth line, print all the characters of this string with odd indices (i.e. starting with the second character in the string).In the seventh line, print all the characters of the string in reverse order.In the eighth line, print every second character of the string in reverse order, starting from the last one.In the ninth line, print the length of the given string.](Day031.md)
+
+32. [Given a string in which the letter h occurs at least twice. Remove from that string the first and the last occurrence of the letter h, as well as all the characters between them.](Day032.md)
+
+
