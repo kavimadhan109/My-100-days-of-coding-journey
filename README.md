@@ -75,3 +75,4 @@ If the boolean 'rev' is True (or 1), then reverse the order of printing.  "PugsJ
 
 35. [Given a list of numbers, find and print all its elements that are greater than their left neighbor.](Day035.md)
 
+36. [Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day036.md)
