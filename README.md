@@ -77,4 +77,6 @@ If the boolean 'rev' is True (or 1), then reverse the order of printing.  "PugsJ
 
 36. [Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day036.md)
 
-38. [Given a list of numbers,determine and print the number of elements that are greater than both of their neighbors.The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day038.md)
+37. [Given a list of numbers, print all its even elements. Use a for-loop that iterates over the list itself and not over its indices. That is, don't use range().](Day037.md)
+
+38. [Given a list of numbers, determine and print the number of elements that are greater than both of their neighbors.The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day038.md)
