@@ -86,3 +86,5 @@ If the boolean 'rev' is True (or 1), then reverse the order of printing.  "PugsJ
 40. [Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day040.md)
 
 41. [Given a list of numbers, swap adjacent elements in each pair (swap A[0] with A[1], A[2] with A[3], etc.). Print the resulting list. If a list has an odd number of elements, leave the last element intact.](Day041.md)
+
+42. [Given a list of distinct numbers, swap the minimum and the maximum and print the resulting list.](Day041.md)
