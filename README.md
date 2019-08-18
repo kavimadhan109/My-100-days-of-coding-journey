@@ -69,4 +69,5 @@ If the boolean 'rev' is True (or 1), then reverse the order of printing.  "PugsJ
 
 32. [Given a string in which the letter h occurs at least twice, reverse the sequence of characters enclosed between the first and last occurrences of it..](Day032.md)
 
+33. [Given a string in which the letter h occurs at least twice. Remove from that string the first and the last occurrence of the letter h, as well as all the characters between them.](Day033.md)
 
