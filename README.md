@@ -57,3 +57,4 @@ n! = 1 × 2 × … × n. For the given integer n calculate the value :1! + 2! + 
 
 27. [For given integer n ≤ 9 print a ladder of n steps. The k-th step consists of the integers from 1 to k without spaces between them. To do that, you can use the sep and end arguments for the function print().](Day027.md)
 
+28. [Given a sequence of distinct non-negative integers, where each number is written in a separate line. The sequence ends with 0. Print the second largest element in this sequence. It is guaranteed that the sequence has at least two elements.](Day028.md)
