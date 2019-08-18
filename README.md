@@ -82,3 +82,5 @@ If the boolean 'rev' is True (or 1), then reverse the order of printing.  "PugsJ
 38. [Given a list of numbers, determine and print the number of elements that are greater than both of their neighbors.The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day038.md)
 
 39. [Given a list of numbers with all elements sorted in ascending order, determine and print the number of distinct elements in it.](Day039.md)
+
+40. [Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day040.md)
